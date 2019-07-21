@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+}
+
+.text-muted
+{
+    color:blue;
+}
+.last-second
+{
+    color:red;
+}
+.option
+{
+    margin: 15px;
+}
